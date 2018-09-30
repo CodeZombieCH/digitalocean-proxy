@@ -16,7 +16,7 @@ A shell script to run a disposable proxy on a DigitalOcean droplet
 - curl
 - jq v1.3+
 
-Tested on Ubuntu Ubuntu 14.04.5 LTS with
+Tested on Ubuntu 14.04.5 LTS with
 - curl v7.35.0
 - jq v1.3
 
